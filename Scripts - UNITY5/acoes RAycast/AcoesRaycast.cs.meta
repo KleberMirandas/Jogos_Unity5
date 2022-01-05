@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 667574a8442edbf45993bf8907f3e0b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameControllerScript: {instanceID: 0}
+  - chave: {fileID: 2037096617, guid: a271543715efe3c4d9c9adcadf65643e, type: 3}
+  - chave2: {fileID: 7360042564744667624, guid: ec2ebf4c11e905a4ca8fc46cb3eb153c,
+      type: 3}
+  - salvaObjeto: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
